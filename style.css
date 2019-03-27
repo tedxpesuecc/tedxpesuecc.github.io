@@ -133,7 +133,15 @@ background-color:#f4f9f4
     color: #606060;
 }
 
-#portion5{
+#portion5 {
+  font-family: 'Varela', sans-serif;
+    background-color:#0F2944 ;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    color: white;
+}
+
+#portion7 {
   font-family: 'Varela', sans-serif;
     background-color:#0F2944 ;
     padding-top: 6%;
