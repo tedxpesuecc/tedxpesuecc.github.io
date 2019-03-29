@@ -307,7 +307,8 @@ body,html{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    color: #606060;
+    color: #fff;
+    font-size: 30px;
 
 }
 
