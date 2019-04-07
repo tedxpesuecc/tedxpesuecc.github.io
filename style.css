@@ -532,7 +532,17 @@ ul.icons {
   background-size: 300px 300px;
 }
 
+.blog-card .photo.photo5 {
+  background: url("rs.jpg") center no-repeat;
+  background-size: 300px 300px;
+}
+
 .blog-card .photo.photo6 {
+  background: url("gk.jpg") center no-repeat;
+  background-size: 300px 300px;
+}
+
+.blog-card .photo.photo7 {
   background: url("http://i60.tinypic.com/xeiv79.jpg") center no-repeat;
   background-size: cover;
 }
