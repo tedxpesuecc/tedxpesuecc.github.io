@@ -527,11 +527,6 @@ ul.icons {
   background-size: 300px 300px;
 }
 
-.blog-card .photo.photo4 {
-  background: url("kj.jpg") center no-repeat;
-  background-size: 300px 300px;
-}
-
 .blog-card .photo.photo5 {
   background: url("rs.jpg") center no-repeat;
   background-size: 300px 300px;
@@ -549,6 +544,11 @@ ul.icons {
 
 .blog-card .photo.photo8 {
   background: url("ssd.jpg") center no-repeat;
+  background-size: 300px 300px;
+}
+
+.blog-card .photo.photo9 {
+  background: url("sv.jpg") center no-repeat;
   background-size: 300px 300px;
 }
 
