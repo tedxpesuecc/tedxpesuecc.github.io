@@ -552,6 +552,11 @@ ul.icons {
   background-size: 300px 300px;
 }
 
+.blog-card .photo.photo10 {
+  background: url("nk.jpg") center no-repeat;
+  background-size: 300px 300px;
+}
+
 .blog-card .details {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
