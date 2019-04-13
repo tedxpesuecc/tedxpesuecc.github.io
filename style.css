@@ -557,6 +557,11 @@ ul.icons {
   background-size: 300px 300px;
 }
 
+.blog-card .photo.photo10 {
+  background: url("p1.jpg") center no-repeat;
+  background-size: 300px 300px;
+}
+
 .blog-card .details {
   transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
@@ -879,6 +884,14 @@ ul.icons {
 }
 
 #portion4{
+  font-family: 'Varela', sans-serif;
+    background-color:#0000 ;
+    padding-top: 6%;
+    padding-bottom: 3%;
+    color: #fff;
+}
+
+#portion9{
   font-family: 'Varela', sans-serif;
     background-color:#0000 ;
     padding-top: 6%;
