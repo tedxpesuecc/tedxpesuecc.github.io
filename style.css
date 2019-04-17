@@ -584,7 +584,7 @@ ul.icons {
 }
 .blog-card .details > li {
   padding: 3px 0;
-}
+} 
 .blog-card .details li:before, .blog-card .details .tags ul:before {
   margin-right: 10px;
   vertical-align: middle;
